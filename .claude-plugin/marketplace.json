@@ -1,0 +1,14 @@
+{
+  "name": "agent-handoff-skills",
+  "description": "Skills for carrying investigation work between coding-agent sessions",
+  "owner": {
+    "name": "Aydin Aghaliyev"
+  },
+  "plugins": [
+    {
+      "name": "agent-handoff",
+      "source": "./",
+      "description": "handoff, handon, handls, and handreview skills"
+    }
+  ]
+}

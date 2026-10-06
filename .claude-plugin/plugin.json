@@ -1,0 +1,8 @@
+{
+  "name": "agent-handoff",
+  "description": "Investigate problems into self-contained task handoffs, list them, pick them up, and review their implementation.",
+  "author": {
+    "name": "Aydin Aghaliyev"
+  },
+  "repository": "https://github.com/aydin-aghaliyev/agent-handoff-skills"
+}
